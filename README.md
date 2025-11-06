@@ -10,7 +10,7 @@ Tools Used: React, TypeScript, Figma, NestJS, and PostgreSQL
 AI-powered app that analyzes health insurance plans and ranks them based on user preferences. 
 Tools Used: React, TypeScript, Figma, Python, FastAPI, AWS
 
-**[NEFAC Website Redesign]([https://github.com/yourusername/nefac-redesign](https://github.com/Code-4-Community/nefac): Product Manager**  
+**[NEFAC Website Redesign](https://github.com/Code-4-Community/nefac): Product Manager**  
 Worked on implementing a clean, modern, redesign of NEFAC’s website, integrating with client's existing Wordpress publishing workflow.  
 Tools Used: React, TypeScript, Railwind, Figma, Faust.js, GraphQL
 
