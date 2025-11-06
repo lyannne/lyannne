@@ -3,7 +3,7 @@
 ### 🎓 About Me
 - Computer Science & Mathematics major at Northeastern University  
 - Passionate about building tools that help solve real problems
-- Currently exploring full-stack development and applied machine learning
+- Currently exploring full-stack development and AI
 
 ### 🧩 Projects I've Worked On
 
