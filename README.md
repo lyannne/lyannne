@@ -1,5 +1,10 @@
 ## 👋 Hi, I'm Lyanne!
 
+### 🎓 About Me
+- Computer Science & Mathematics major at Northeastern University  
+- Passionate about building tools that help solve real problems
+- Currently exploring full-stack development and applied machine learning
+
 ### 🧩 Projects I've Worked On
 
 **[JPAL (Code4Community)](https://github.com/Code-4-Community/jpal-backend): Developer**  
