@@ -29,7 +29,8 @@ __Technologies Used: React, TypeScript, Figma, NestJS, DynamoDB, AWS__
 
 ### ⚙️ Currently Working On
 **[BCAN (Code4Community)](https://github.com/Code-4-Community/bcan): Developer**  
-New features for project mentioned above!__
+New features for project mentioned above!
+
 __Technologies Used: React, TypeScript, Figma, NestJS, DynamoDB, Cognito, AWS__
   
   
