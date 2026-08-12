@@ -20,13 +20,17 @@ __Technologies Used: React, TypeScript, Figma, Python, FastAPI, AWS__
 Worked on implementing a clean, modern, redesign of NEFAC’s website, integrating with client's existing Wordpress publishing workflow.  
 __Technologies Used: React, TypeScript, Railwind, Figma, Faust.js, GraphQL__
 
-**[PlateMate (Disrupt)](https://github.com/adityapat24/Restaurant-Rating-Dashboard): Developer**
+**[PlateMate (Disrupt)](https://github.com/adityapat24/Restaurant-Rating-Dashboard): Developer**  
 Interactive analytics dashboard that visualizes restaurant feedback collected from the Platemate app, enabling owners to track reviews and ratings of specific dishes.  
 __Technologies Used: Dash, Plotly, Python__
 
 **[BCAN (Code4Community)](https://github.com/Code-4-Community/bcan): Product Manager**  
 Full-stack grant tracking platform that automates tracking, sends reminders of upcoming deadlines, and allows sorting and filtering of grants to easily find any information needed, saving time and simplifying the grant-tracking process.  
 __Technologies Used: React, TypeScript, Figma, NestJS, DynamoDB, Cognito, AWS__
+
+**[MarkovMelody](https://github.com/lyannne/CS4100-Final-Project-Melody-Generator): Team Member**  
+Generates original melodies using Markov models trained on MIDI data, with genre- and mood-based control over pitch, rhythm, key, and tempo.
+__Technologies Used: Python, Markov Models, MIDI Processing__
   
 📫 Reach me at: lyanne.xuu@gmail.com
 
