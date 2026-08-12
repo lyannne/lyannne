@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Lyanne!
 
 ### 🎓 About Me
-- Computer Science & Mathematics major at Northeastern University  
+- Computer Science & Mathematics major at Northeastern University
+- Interned at RediMinds and Athenahealth
 - Passionate about building tools that help solve real problems
 - Currently exploring full-stack development and AI
 
